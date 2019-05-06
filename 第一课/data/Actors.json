@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"钢铁侠1_battle1","characterIndex":0,"characterName":"钢铁侠1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"钢铁侠01","traits":[],"initialLevel":1,"maxLevel":99,"name":"托尼·斯塔克","nickname":"钢铁侠","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_4","characterIndex":4,"characterName":"Nature","classId":2,"equips":[2,1,2,3,4],"faceIndex":4,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":" 娜塔莎·罗曼诺夫","nickname":"黑寡妇","note":"","profile":""}
+]
