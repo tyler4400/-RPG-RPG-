@@ -1,4 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"mpp_home_01","order":1,"parentId":0,"scrollX":819,"scrollY":453}
+{"id":1,"expanded":true,"name":"mpp_home_01","order":1,"parentId":0,"scrollX":819,"scrollY":453},
+{"id":2,"expanded":false,"name":"Tower 1F","order":2,"parentId":1,"scrollX":816,"scrollY":676},
+{"id":3,"expanded":false,"name":"Fishing Village","order":3,"parentId":1,"scrollX":850,"scrollY":1296}
 ]
